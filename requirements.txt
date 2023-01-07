@@ -1,6 +1,6 @@
 bqplot
-seaborn
-qiskit
+seaborn>=0.1
+qiskit>=0.1
 ipycanvas>=0.9.1
 ipyevents>=2.0.1
 ipyleaflet
